@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="17.32" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-16T19:10:37.827962Z">
+<testcase classname="OrangeHRM Login" name="Logo presence on OrangeHRM" time="17.282">
+<system-out><![CDATA[
+Given I launch chrome browser...............................................passed
+When I open OrangeHRM homepage..............................................passed
+Then I verify that the logo is present on page..............................passed
+And close browser...........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
